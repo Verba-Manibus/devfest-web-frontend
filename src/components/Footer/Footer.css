@@ -1,0 +1,12 @@
+.site-footer{
+  margin-top:40px;
+  padding:20px 0;
+  border-top:1px solid rgba(2,6,23,0.04);
+  text-align:center;
+  color:var(--muted, #6b7280);
+  font-size:0.95rem;
+  background:linear-gradient(180deg, rgba(11,99,214,0.02), transparent);
+}
+
+.site-footer p{margin:0}
+

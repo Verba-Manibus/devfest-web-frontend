@@ -1,0 +1,4 @@
+/* Minimal feature page styles in folder */
+.features-page h2{color:var(--primary-600);margin-bottom:12px}
+.features-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px}
+.feature-card{background:var(--card);border:1px solid rgba(2,6,23,0.04);padding:16px;border-radius:10px}

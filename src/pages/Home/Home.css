@@ -1,0 +1,8 @@
+/* Home page styles moved into foldered page */
+@import '../pages.css';
+
+/* Keep original Home.css content minimal; main variables live globally */
+.home-page{display:flex;flex-direction:column;gap:48px;padding:28px 0}
+.home-page .hero{text-align:center;padding:36px 0}
+.hero-title{font-size:2.6rem;margin:0}
+.lead{color:var(--muted)}
