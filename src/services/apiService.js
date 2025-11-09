@@ -1,6 +1,4 @@
-// apiService.js
-// Placeholder service for future backend fetch calls.
-// Currently exports functions that will be filled when backend endpoints are available.
+
 
 const API_BASE = process.env.REACT_APP_API_BASE || '';
 

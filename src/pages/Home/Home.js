@@ -1,7 +1,5 @@
 import React from 'react';
 import './Home.css';
-// Gợi ý: Cài đặt react-icons để có icon đẹp
-// npm install react-icons
 import { FaCamera } from 'react-icons/fa';
 import { BsChatDotsFill, BsBookFill, BsPhoneFill } from 'react-icons/bs';
 import { Link } from 'react-router-dom';
